@@ -3,7 +3,7 @@ title: Mingbo Zheng Wins First Place in the Wowchemy Prize
 date: 2020-12-01
 ---
 
-Congratulations to Mingbo Zhang for winning first place in the Wowchemy Prize.
+Congratulations to Mingbo Zheng for winning first place in the Wowchemy Prize.
 
 <!--more-->
 
