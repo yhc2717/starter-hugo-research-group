@@ -1,37 +1,33 @@
 ---
 # Display name
-title: Haochang Yang
+title: Chun-Ping Chang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Phd in Xi'an Jiaotong University
+Position: Professor, Department of marketing management, Shih Chien University, Taiwan
+Role: Co-Editor of Emerging Markets Finance and Trade (SSCI, IF:4.859)/ Editors-in-Chief of Innovation and Green Development
 
 # Organizations/Affiliations
 organizations:
-  - name: Xi'an Jiaotong University
+  - name: Shih Chien University, Taiwan
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Research interests in Environmental Economics; Energy Economics and Political Economics.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Environmental Economics
+  - Energy Economics
+  - Political Economic
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in National Sun Yat-sen University, Taiwan
       institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
       year: 2008
+    
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -68,6 +64,6 @@ user_groups:
   - Researchers
 ---
 
-Haochang Yang is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Professor Chun-Ping Chang, co-editor-in-chief of Emerging Markets Finance and Trade, co-editor-in-chief of Innovation and Green Development, Editorial Board of Bullutin of Monetary Economics and Banking, Central Bank of Indonesia.  Chair Professor, School of Economics and Management, Xi'an Polytechnic University; Chair Professor, Airlangga University, Surabaya, Indonesia.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Nine papers are selected as “ESI Highly Cited Papers”: (I). “Tourism development and economic growth: A closer look at panels” published. (II). “Energy consumption and economic growth in Asian economies: A more comprehensive analysis using panel data” published.（III）Does the shale gas boom change the natural gas price-production relationship? Evidence from the US market. (IV) Economic growth, corruption, and financial development: Global evidence. (V)What is the exchange rate volatility response to COVID-19 and government interventions?(VI) Government Fighting Pandemic, Stock Market Return, and Covid-19 Virus Outbreak. (VII) Environmental performance, green finance and green innovation: What's the long-run relationships among variables? (VIII)The impacts of energy insecurity on green innovation: A multi-country study. (IX) Science-technology intermediary and innovation in China: Evidence from State Administration for Market Regulation, 2000-2019. (IX) The impact of extreme events on energy price risk
