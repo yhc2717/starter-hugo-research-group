@@ -10,7 +10,7 @@ headless: true
 weight: 10
 
 title: Contact
-subtitle:
+# subtitle:
 
 content:
   # Contact (edit or remove options as required)
@@ -25,13 +25,13 @@ content:
     country: China
     country_code: CN
   coordinates:
-    latitude: '34.2165'
-    longitude: '108.9423'
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
-  #contact_links:
+    latitude: '34.217058'
+    longitude: '108.944348'
+  # office_hours:
+  #   - 'Monday 10:00 to 13:00'
+  #   - 'Wednesday 09:00 to 10:00'
+  # appointment_url: 'https://calendly.com'
+  # contact_links:
   #  - icon: comments
   #    icon_pack: fas
   #    name: Discuss on Forum
