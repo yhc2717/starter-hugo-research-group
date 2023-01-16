@@ -15,7 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: qinlingxiaozhan@gmail.com
+  email: qinling2023@gmail.com
   phone: 888 888 88 88
   address:
     street: 74 West Yanta Road
