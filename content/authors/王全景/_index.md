@@ -13,7 +13,7 @@ superuser: false
 role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
-organizations: Zhengzhou University, Zhengzhou
+organizations: 
   - name: Zhengzhou University
     url: ''
 
