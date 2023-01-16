@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 吳恩達
+title: Quan-Jing Wang 
 
 # Username (this should match the folder name)
 authors:
-  - longhan
+  - Quan-Jing Wang
 
 # Is this the primary user of the site?
 superuser: false
@@ -13,8 +13,8 @@ superuser: false
 role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
-organizations:
-  - name: Stanford University
+organizations: Zhengzhou University
+  - name: Zhengzhou University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
