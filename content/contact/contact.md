@@ -7,10 +7,10 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-# weight: 10
+weight: 10
 
 title: Contact
-# subtitle:
+subtitle:
 
 content:
   # Contact (edit or remove options as required)
@@ -38,7 +38,7 @@ content:
   #    link: 'https://discourse.gohugo.io'
 
   # Automatically link email and phone or display as text?
-  autolink: true
+  # autolink: true
 
   # # Email form provider
   # form:
@@ -49,6 +49,6 @@ content:
   #     # Enable CAPTCHA challenge to reduce spam?
   #     captcha: false
 
-design:
-  columns: '1'
+# design:
+#   columns: '1'
 ---
