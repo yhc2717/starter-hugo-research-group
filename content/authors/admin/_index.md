@@ -25,8 +25,8 @@ interests:
 education:
   courses:
     - course: PhD in National Sun Yat-sen University, Taiwan
-      institution: Stanford University
-      year: 2008
+      institution: National Sun Yat-sen University
+      year: 2009
     
 
 # Social/Academic Networking
