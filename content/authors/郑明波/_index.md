@@ -1,10 +1,10 @@
 ---
 # Display name
-title: 吳恩達
+title: Ming-Bo Zheng
 
 # Username (this should match the folder name)
 authors:
-  - longhan
+  - Ming-Bo Zheng
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Changan University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
