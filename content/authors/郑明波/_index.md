@@ -10,32 +10,27 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor 
 
 # Organizations/Affiliations
 organizations:
-  - name: Changan University
-    url: ''
+  - name: Chang'an University
+    url: 'School of Economics and Management'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Innovation
+  - Environment Economics
+  - Digital Economy
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Economics
+      institution: Xi'an Jiaotong University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    -
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,7 +39,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mingbo1992@126.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -70,6 +65,5 @@ user_groups:
   # Visitors
 ---
 
-Longhan is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Mingbo Zheng is an assistant professor at School of Economics and Management, Chang’an University. His research areas include innovation, environmental economics, and digital economy. His work has been published in Energy Economics, Business Strategy and the Environment, Economic Modelling, Renewable Energy, Economic Systems, Emerging Markets Finance and Trade, etc. He is the anonymous reviewer of British Accounting Review, Journal of International Financial Markets, Institutions & Money, Socio-Economic Planning Sciences, Economic Modelling, Emerging Markets Finance and Trade, Land Use Policy, Energy Strategy Reviews, Financial Innovation, and Innovation & Green Development. He was served as the guest editor of Emerging Markets Finance and Trade and Environmental Science and Pollution Research.
+Personal website: https://www.researchgate.net/profile/Mingbo-Zheng
