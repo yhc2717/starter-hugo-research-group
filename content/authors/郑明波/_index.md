@@ -30,7 +30,6 @@ education:
     - course: PhD in Economics
       institution: Xi'an Jiaotong University
       year: 2012
-    -
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
