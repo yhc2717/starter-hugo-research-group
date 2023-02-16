@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Ming-Bo Zheng
+title: Mingbo Zheng
 
 # Username (this should match the folder name)
 authors:
-  - Ming-Bo Zheng
+  - Mingbo Zheng
 
 # Is this the primary user of the site?
 superuser: false
