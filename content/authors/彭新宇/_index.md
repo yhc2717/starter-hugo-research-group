@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Pingchuan Jiang
+title: Xinyu Peng
 
 # Username (this should match the folder name)
 authors:
-  - Qiang Fu
+  - Xinyu Peng
 
 # Is this the primary user of the site?
 superuser: false
