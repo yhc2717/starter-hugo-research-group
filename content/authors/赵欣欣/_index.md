@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-Position: Assistant Professor, School of Economics and Finance, Xi’an Jiaotong University
+role: Assistant Professor, School of Economics and Finance, Xi’an Jiaotong University
 
 
 # Organizations/Affiliations
