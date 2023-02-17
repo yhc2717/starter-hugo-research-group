@@ -2,6 +2,10 @@
 # Display name
 title: Xinin Zhao
 
+# Username (this should match the folder name)
+authors:
+  - Xinin Zhao
+
 # Is this the primary user of the site?
 superuser: true
 
