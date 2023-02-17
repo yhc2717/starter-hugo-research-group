@@ -10,32 +10,28 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor of Industrial Economics
+role: Assistant professor of the School of Business, Zhengzhou University.
 
 # Organizations/Affiliations
 organizations: 
   - name: Zhengzhou University
-    url: ''
+    url: 'The School of Business'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests are Technology Innovation, Political Economics, Environmental Economics, and Sustainable Development.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Technology Innovation
+  - Political Economics
+  - Environmental Economics
+  - Sustainable Development
 
 education:
   courses:
     - course: PhD in Industrial Economics
       institution: Xi'an Jiaotong University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2017
+    
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,7 +40,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'wqj9333@163.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -70,6 +66,5 @@ user_groups:
   #Visitors
 ---
 
-Quanjing Wang is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Quanjing Wang is an assistant professor of the School of Business, Zhengzhou University. His research interests are Technology Innovation, Political Economics, Environmental Economics, and Sustainable Development. He has published more than 10 papers in several journals, such as Research Policy, Technovation, Global Environmental Change, Sustainable Development, Land Use Policy, Energy Economics, Science of the Total Environment, Emerging Markets Finance and Trade. He is also the anonymous reviewer of Research Policy, Energy Economics, Emerging Markets Finance & Trade and Innovation & Green Development.
+More information: https://www.researchgate.net/profile/Quan-Jing-Wang/research
