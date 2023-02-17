@@ -7,7 +7,7 @@ authors:
   - Jun Wen
 
 # Is this the primary user of the site?
-superuser: fause
+superuser: false
 
 # Role/position
 Position: Professor, School of Economics and Finance, Xi’an Jiaotong University
