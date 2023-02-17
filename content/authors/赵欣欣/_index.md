@@ -7,7 +7,7 @@ authors:
   - Xinin Zhao
 
 # Is this the primary user of the site?
-superuser: true
+superuser: fause
 
 # Role/position
 Position: Assistant Professor, School of Economics and Finance, Xi’an Jiaotong University
