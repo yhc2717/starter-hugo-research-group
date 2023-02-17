@@ -73,6 +73,5 @@ user_groups:
 ---
 
 <div style="text-align: justify">
-Xin-Yun Zou is an doctor of the School of Economics and Management, Changsha University of Science and Technology. Her research interests are Green Economy, Energy Economy, Innovation, Sustainable Development and has published more than 10 papers in several journals, such as  Development of Economy,, SNatural Hazards, Sustainable Development,  She is also the anonymous reviewer of Emerging Markets Finance & Trade and Innovation & Green Development. 
-More information: https://www.researchgate.net/profile/Xing-Yun-Zou/research
+Xing-Yun Zou is an doctor of the School of Economics and Management, Changsha University of Science and Technology. Her research interests are Environmental Economics, Technology Innovation, Sustainable Development and has published several papers in several journals, such as Emerging Markets Finance and Trade, Technological and Economic Development of Economy, and Natural Hazards. She is also the anonymous reviewer of Emerging Markets Finance & Trade and Innovation & Green Development. More information: https://www.researchgate.net/profile/Xing-Yun-Zou/research
 </div>
