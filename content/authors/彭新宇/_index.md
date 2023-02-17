@@ -10,32 +10,33 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Management
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Changsha University of Science and Technology
+    url: 'School of Economics and Management'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: His research focuses are Industry Integration and Digital Economy Development, Green Innovation and Sustainable Development.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Industry Integration
+  - Digital Economy Development
+  - Green Innovation
+  - Sustainable Development
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Management
+      institution: Chinese Academy of Agricultural Sciences
+      year: 2004
+    - course: Master of Economics
+      institution: Hunan Normal University
+      year: 2001
+    - course: BSc in Management
+      institution: Hunan Normal University
+      year: 1997
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,6 +71,6 @@ user_groups:
   #- Visitors
 ---
 
-Fuqiang is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+<div style="text-align: justify">
+Professor Xin-Yu Peng: Vice Dean of the School of Economics and Management, Changsha University of Science and Technology. His research focuses are Industry Integration and Digital Economy Development, Green Innovation and Sustainable Development. He has published more than 20 papers in famous journals, such as Emerging Markets Finance and Trade, Technological and Economic Development of Economy, Natural Hazards. He holds academic part-time positions including executive director and deputy secretary-general of Hunan Provincial Economics Association, member of Hunan Provincial Services Standardization Technical Committee, and director of China Agricultural Technology and Economics Association.
+</div>
