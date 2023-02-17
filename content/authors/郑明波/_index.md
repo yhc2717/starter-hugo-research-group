@@ -64,7 +64,7 @@ user_groups:
   # Visitors
 ---
 
-<center>
+<div style="text-align: justify">
 Mingbo Zheng is an assistant professor at School of Economics and Management, Chang’an University. His research areas include innovation, environmental economics, and digital economy. His work has been published in Energy Economics, Business Strategy and the Environment, Economic Modelling, Renewable Energy, Economic Systems, Emerging Markets Finance and Trade, etc. He is the anonymous reviewer of British Accounting Review, Journal of International Financial Markets, Institutions & Money, Socio-Economic Planning Sciences, Economic Modelling, Emerging Markets Finance and Trade, Land Use Policy, Energy Strategy Reviews, Financial Innovation, and Innovation & Green Development. He was served as the guest editor of Emerging Markets Finance and Trade and Environmental Science and Pollution Research.
 Personal website: https://www.researchgate.net/profile/Mingbo-Zheng
-</center>
+</div>
