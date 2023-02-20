@@ -65,6 +65,6 @@ user_groups:
 ---
 
 <div style="text-align: justify">
-Long Han is a doctor of the School of Economics and Finance, Xi'an Jiaotong University. His research interests include green economy, sustainable development, and digital economy. His work has been published in Corporate Social Responsibility and Environmental Management and Emerging Markets Finance and Trade. He is also an anonymous reviewer for Emerging Markets Finance and Trade and Innovation and Green Development.
+Long Han is a doctor of the School of Economics and Finance, Xi'an Jiaotong University. His research interests include green economy, sustainable development, and digital economy. His work has been published in Corporate Social Responsibility and Environmental Management and Emerging Markets Finance and Trade. He is also an anonymous reviewer for Emerging Markets Finance and Trade and Innovation and Green Development.<br>
 Personal website: https://www.researchgate.net/profile/Han-Long-6
 </div>

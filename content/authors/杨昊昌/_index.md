@@ -66,6 +66,6 @@ user_groups:
 ---
 
 <div style="text-align: justify">
-Hao-Chang Yang is Ph.D of School of Economics and Finance, Xi'an Jiaotong University. His research interests are Technology Innovation, Political Economics, Environmental Economics, and Sustainable Development. He has published more than 5 papers in several journals. He is also the anonymous reviewer of Emerging Markets Finance & Trade and Innovation & Green Development.
+Hao-Chang Yang is Ph.D of School of Economics and Finance, Xi'an Jiaotong University. His research interests are Technology Innovation, Political Economics, Environmental Economics, and Sustainable Development. He has published more than 5 papers in several journals. He is also the anonymous reviewer of Emerging Markets Finance & Trade and Innovation & Green Development.<br>
 More information: https://www.researchgate.net/profile/Haochang-Yang-2
 </div>
