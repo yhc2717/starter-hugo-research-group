@@ -67,6 +67,6 @@ user_groups:
 ---
 
 <div style="text-align: justify">
-Fuqiang is an Assistant professor of the School of Economics and Management, Changsha University of Science and Technology. Her research interests are Green Economy, Energy Economy, Innovation, Sustainable Development and has published more than 10 papers in several journals, such as Energy Economics, Science of the Total Environment, Emerging Markets Finance and Trade, Technological and Economic Development of Economy. She is also the anonymous reviewer of Emerging Markets Finance & Trade and Innovation & Green Development. 
+Fuqiang is an Assistant professor of the School of Economics and Management, Changsha University of Science and Technology. Her research interests are Green Economy, Energy Economy, Innovation, Sustainable Development and has published more than 10 papers in several journals, such as Energy Economics, Science of the Total Environment, Emerging Markets Finance and Trade, Technological and Economic Development of Economy. She is also the anonymous reviewer of Emerging Markets Finance & Trade and Innovation & Green Development.<br> 
 More information: https://www.researchgate.net/profile/Qiang-Fu-63/publications
 </div>

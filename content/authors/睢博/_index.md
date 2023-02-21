@@ -67,6 +67,4 @@ user_groups:
   # Visitors
 ---
 
-Sui Bo is an associate professor of artificial intelligence at the School of Economics and Management, Northwest A&F University. His research interests include Applied Financial Econometrics; Energy Economics; Financial Markets; Corporate innovation; Political economics.git 
-
-
+Sui Bo is an associate professor of artificial intelligence at the School of Economics and Management, Northwest A&F University. His research interests include Applied Financial Econometrics; Energy Economics; Financial Markets; Corporate innovation; Political economics.git

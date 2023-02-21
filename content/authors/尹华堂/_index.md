@@ -66,6 +66,6 @@ user_groups:
 ---
 
 <div style="text-align: justify">
-Hua-Tang Yin is an Ph.D. student at School of Economics and Finance, Xi’an Jiaotong University. His research interests are focused on innovation, financial economics, and energy economics. His work has been published in Technological Forecasting and Social Change, Technology in Society, Technological and Economic Development of Economy, etc. He is the anonymous reviewer of Emerging Markets Finance and Trade, Technology Analysis & Strategic Management and Innovation & Green Development.
+Hua-Tang Yin is an Ph.D. student at School of Economics and Finance, Xi’an Jiaotong University. His research interests are focused on innovation, financial economics, and energy economics. His work has been published in Technological Forecasting and Social Change, Technology in Society, Technological and Economic Development of Economy, etc. He is the anonymous reviewer of Emerging Markets Finance and Trade, Technology Analysis & Strategic Management and Innovation & Green Development.<br>
 Personal website: https://www.researchgate.net/profile/Yin-Hua-Tang
 </div>

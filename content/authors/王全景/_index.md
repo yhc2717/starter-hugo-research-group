@@ -66,6 +66,6 @@ user_groups:
 ---
 
 <div style="text-align: justify">
-Quanjing Wang is an assistant professor of the School of Business, Zhengzhou University. His research interests are Technology Innovation, Political Economics, Environmental Economics, and Sustainable Development. He has published more than 10 papers in several journals, such as Research Policy, Technovation, Global Environmental Change, Sustainable Development, Land Use Policy, Energy Economics, Science of the Total Environment, Emerging Markets Finance and Trade. He is also the anonymous reviewer of Research Policy, Energy Economics, Emerging Markets Finance & Trade and Innovation & Green Development.
+Quanjing Wang is an assistant professor of the School of Business, Zhengzhou University. His research interests are Technology Innovation, Political Economics, Environmental Economics, and Sustainable Development. He has published more than 10 papers in several journals, such as Research Policy, Technovation, Global Environmental Change, Sustainable Development, Land Use Policy, Energy Economics, Science of the Total Environment, Emerging Markets Finance and Trade. He is also the anonymous reviewer of Research Policy, Energy Economics, Emerging Markets Finance & Trade and Innovation & Green Development.<br>
 More information: https://www.researchgate.net/profile/Quan-Jing-Wang/research
 </div>

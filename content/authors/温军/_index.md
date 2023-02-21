@@ -69,6 +69,7 @@ user_groups:
 ---
 
 <div style="text-align: justify">
-Jun Wen is a professor at School of Economics and Finance, Xi’an Jiaotong University. His research areas include innovation economics, new political economics and green development. His work has been published in Research policy, Energy Economics, Economics and Politics, European Journal of Finance, Economic Modelling, Economic Systems, Emerging Markets Finance and Trade, etc. He is the anonymous reviewer of Economic Modelling, Emerging Markets Finance and Trade, and Innovation & Green Development. Personal website: heeps://www.researchgate.net/profile/Jun_Wen31/research
+Jun Wen is a professor at School of Economics and Finance, Xi’an Jiaotong University. His research areas include innovation economics, new political economics and green development. His work has been published in Research policy, Energy Economics, Economics and Politics, European Journal of Finance, Economic Modelling, Economic Systems, Emerging Markets Finance and Trade, etc. He is the anonymous reviewer of Economic Modelling, Emerging Markets Finance and Trade, and Innovation & Green Development.<br> 
+Personal website: heeps://www.researchgate.net/profile/Jun_Wen31/research
 </div>
 

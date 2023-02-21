@@ -69,6 +69,7 @@ user_groups:
 ---
 
 <div style="text-align: justify">
-Xinxin Zhao is a PhD student in Xi’an jiaotong university. Her research areas include innovation, environmental economics, and new political economics. Her work has been published in Energy Economics, Sustainable development, Economic Modelling, Economic Systems, Emerging Markets Finance and Trade, etc. She is the anonymous reviewer of Economic Modelling, Emerging Markets Finance and Trade, Pacific-Basin Financial Journal and Innovation & Green Development.Personal website: https://www.researchgate.net/profile/Xinxin-Zhao.
+Xinxin Zhao is a PhD student in Xi’an jiaotong university. Her research areas include innovation, environmental economics, and new political economics. Her work has been published in Energy Economics, Sustainable development, Economic Modelling, Economic Systems, Emerging Markets Finance and Trade, etc. She is the anonymous reviewer of Economic Modelling, Emerging Markets Finance and Trade, Pacific-Basin Financial Journal and Innovation & Green Development.<br>
+Personal website: https://www.researchgate.net/profile/Xinxin-Zhao.
 </div>
 
