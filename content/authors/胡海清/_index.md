@@ -27,8 +27,8 @@ interests:
 education:
   courses:
     - course: PhD in Economics
-      institution: Xi'an University of Technology
-      year: 2017
+      institution: Xi’an Jiaotong University
+      year: 1999
     - course: PhD in Information Systems Engineering
       institution: Tokushima University
       year: 2002
