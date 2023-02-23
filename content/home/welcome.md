@@ -8,7 +8,7 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
   Qinling Xiaozhan 
-  Research Group
+  Inn
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **Qinling Xiaozhan Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The **Qinling Xiaozhan Inn** has been a center of excellence for Sustainable Development research, teaching, and practice since its founding in 2016.
