@@ -22,6 +22,7 @@ content:
     - Administration
     - Visitors
     - Alumni
+    - Professors
 design:
   show_interests: false
   show_role: true
