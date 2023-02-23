@@ -14,7 +14,7 @@ role: Assistant professor of the School of Economics and Management
 
 # Organizations/Affiliations
 organizations:
-  - name: Changsha University of Science and Technology
+  - name: Xi'an University of Technology
     url: 'School of Economics and Management'
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-    - course: PhD in Economics
+    - course: PhD in Management
       institution: Xi'an University of Technology
       year: 2017
     

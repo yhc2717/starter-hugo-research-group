@@ -21,10 +21,8 @@ organizations:
 bio: Her research interests are Green Finance, Energy Economy, Innovation, Environmental Economics.
 
 interests:
-  - Green Finance
-  - Energy Economy
-  - Innovation
-  - Environmental Economics
+  - Innovation and Entrepreneurship Management
+  - Corporate Investment and Financing
 
 education:
   courses:
@@ -68,5 +66,5 @@ user_groups:
 ---
 
 <div style="text-align: justify">
- Hai-Qing Hu is the Dean of the School of the School of Economics and Management, Xi'an University of Technology. His research interests are Innovation and Entrepreneurship Management, Regional Economic Development, Entrepreneurial Management and Enterprise Governance, Investment and Financing Decision-making, Financial Innovation, Energy finance. He has published more than 30 papers in famous journals, such as Energy Economics, Economic Modelling, Journal of Economic Surveys, Science of the Total Environment, Emerging Markets Finance and Trade, etc. He is also the anonymous reviewer of Emerging Markets Finance, and Innovation & Green Development. He holds academic part-time positions including Shaanxi Provincial People's Congress Standing Committee Financial Advisory Expert, Member of the Xi'an Municipal Government Expert Decision-making Advisory Committee,Vice President of Shaanxi Economic Society, Vice Chairman of Shaanxi Venture Capital Association, Vice President of the Securities Research Association of Shaanxi Province, etc. <br>
+ Hai-Qing Hu is the Dean of the School of Economics and Management, Xi'an University of Technology. His research interests are Innovation and Entrepreneurship Management, Regional Economic Development, Entrepreneurial Management and Enterprise Governance, Investment and Financing Decision-making, Financial Innovation, Energy Finance. He has published more than 30 papers in famous journals, such as Energy Economics, Economic Modelling, Journal of Economic Surveys, Science of the Total Environment, Emerging Markets Finance and Trade, etc. He is also the anonymous reviewer of Emerging Markets Finance, and Innovation & Green Development. He holds academic part-time positions including Shaanxi Provincial People's Congress Standing Committee Financial Advisory Expert, Member of the Xi'an Municipal Government Expert Decision-making Advisory Committee,Vice President of Shaanxi Economic Society, Vice Chairman of Shaanxi Venture Capital Association, Vice President of the Securities Research Association of Shaanxi Province, etc. <br>
 </div>
